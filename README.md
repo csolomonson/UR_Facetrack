@@ -27,8 +27,7 @@ No Gatweay
 On Jetson: `sudo ifconfig eth0 10.30.21.20 netmask 255.255.255.0`
 
 ## Jetson Credentials
-user: jetson
+User: jetson
 
-password: jetson1
+Password: jetson1
 
-root password: jetson1
