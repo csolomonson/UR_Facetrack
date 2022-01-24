@@ -17,5 +17,7 @@ You'll need to do something on the computer that the sim is running on, but idk 
 
 ## Jetson Credentials
 user: jetson
+
 password: jetson1
+
 root password: jetson1
