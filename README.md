@@ -14,3 +14,8 @@ Open the UR_Sim vm, and open a terminal by going down to the lower left corner, 
 jetson, in `Face_tracking01`, change the `ROBOT_IP` variable to that address.
 
 You'll need to do something on the computer that the sim is running on, but idk what yet.
+
+## Jetson Credentials
+user: jetson
+password: jetson1
+root password: jetson1
